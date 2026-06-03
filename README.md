@@ -111,6 +111,12 @@ La aplicación iniciará en **http://localhost:8081**
 ---
 ## Capturas de pantalla
 
+<img width="921" height="477" alt="image" src="https://github.com/user-attachments/assets/5f07c9dd-5295-4553-80d3-1a66fb652bb7" />
+<img width="921" height="498" alt="image" src="https://github.com/user-attachments/assets/944d7996-7470-496a-8b1c-4fada3517973" />
+<img width="921" height="492" alt="image" src="https://github.com/user-attachments/assets/e5b3b8e0-ac3f-4cfc-8109-deb4c2157ffe" />
+<img width="921" height="497" alt="image" src="https://github.com/user-attachments/assets/0de5e314-a0e1-432d-b611-a3e14acd3105" />
+
+
 ## Endpoints disponibles
 
 | Método | URL | Descripción |
