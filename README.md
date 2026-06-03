@@ -109,6 +109,7 @@ mvn spring-boot:run
 La aplicación iniciará en **http://localhost:8081**
 
 ---
+## Capturas de pantalla
 
 ## Endpoints disponibles
 
